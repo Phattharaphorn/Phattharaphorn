@@ -4,7 +4,7 @@
 👋🏻 Hi there, I'm Jan, I love the entire process of developing creative websites.</h3>
 
 ## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ 
-<a href="https://yushi95.medium.com/"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="640106659@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="linkedin.com/in/janrainjer"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </br>
