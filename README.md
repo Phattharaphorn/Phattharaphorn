@@ -10,8 +10,7 @@
 </br>
 
 ## ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ
-- Node.js
-- SQL
+- Follow next.
   
 ## ᴅᴀᴛᴀʙᴀꜱᴇ
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -19,13 +18,7 @@
 ## ᴅᴇꜱɪɢɴ
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![]()
-![]()
-
-
-
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -79,4 +72,8 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+![Janrainjer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janrainjer&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Janrainjer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janrainjer&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+![Janrainjer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janrainjer&theme=react&show_icons=true&hide_border=true&layout=compact)
+![Janrainjer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janrainjer&theme=dracula&show_icons=true&hide_border=true&layout=compact)
