@@ -5,7 +5,7 @@
 <h3 align="center" padding-top: 525px;>
 👋🏻 Hi there, I'm Jan, I love the entire process of developing creative websites.</h3>
  
-![my-banner](https://github.com/janrainjer/janrainjer/assets/88389821/aed85500-806c-4e25-bf28-8cdbbc143403)
+![Minimal Motivation Banner](https://github.com/phattharaphorn/phattharaphorn/assets/88389821/710d0f78-40cf-4a3f-b5b5-635bd9f86b2e)
 
 ## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ 
 <a href="mailto:phattharaphorn.cd@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
