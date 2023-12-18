@@ -1,4 +1,4 @@
-![Motivation Quote LinkedIn Banner](https://github.com/janrainjer/janrainjer/assets/88389821/98744ff9-3324-4acd-a028-88cd6c1697af) 
+![my-banner](https://github.com/janrainjer/janrainjer/assets/88389821/aed85500-806c-4e25-bf28-8cdbbc143403)
 
 <h3 align="center">
 👋🏻 Hi there, I'm Jan, I love the entire process of developing creative websites.</h3>
