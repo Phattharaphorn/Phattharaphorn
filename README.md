@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=0&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h3 align="center">
+<h3 align="center" padding-top: 525px;>
 👋🏻 Hi there, I'm Jan, I love the entire process of developing creative websites.</h3>
 
 ![my-banner](https://github.com/janrainjer/janrainjer/assets/88389821/aed85500-806c-4e25-bf28-8cdbbc143403)
