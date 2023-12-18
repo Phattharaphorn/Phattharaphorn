@@ -71,7 +71,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-## ɢɪᴛʜᴜʙ-ꜱᴛᴀᴛꜱ
+## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 ![janrainjer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janrainjer&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 <p align="left">
