@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 ![my-banner](https://github.com/janrainjer/janrainjer/assets/88389821/aed85500-806c-4e25-bf28-8cdbbc143403)
 
 <h3 align="center">
@@ -69,3 +73,7 @@
 
 ## ɢɪᴛʜᴜʙ-ꜱᴛᴀᴛꜱ
 ![janrainjer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janrainjer&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
