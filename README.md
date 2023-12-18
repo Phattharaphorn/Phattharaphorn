@@ -64,15 +64,13 @@
 ## ʟᴇᴀʀɴɪɴɢ ʀᴇꜱᴏᴜʀᴄᴇ
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
 ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
-![janrainjer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janrainjer&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![phattharaphorn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phattharaphorn&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
