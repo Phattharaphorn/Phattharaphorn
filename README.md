@@ -8,7 +8,7 @@
 ![Minimal Motivation Banner](https://github.com/phattharaphorn/phattharaphorn/assets/88389821/710d0f78-40cf-4a3f-b5b5-635bd9f86b2e)
 
 ## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ 
-<a href="mailto:phattharaphorn.cd@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:phattharaphorn.chd@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/janrainjer/overlay/contact-info/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </br>
