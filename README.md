@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h3 align="center" padding-top: 525px;>
-👋🏻 Hi there, I'm Jan, I love the entire process of developing creative websites.</h3>
- 
+<h3 align="center" padding-top: 525px;> Hi 👋🏻, I'm Jan, I love the entire process of developing creative websites.</h3>
+
 ![3](https://github.com/phattharaphorn/phattharaphorn/assets/88389821/6b92612f-e234-43dc-9817-c3234473a3ed)
 
 ## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ 
