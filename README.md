@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,nestjs,nextjs,react,fastapi,vue,tailwind,docker,postman,mongodb)](https://skillicons.dev)
 
 ## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
-![phattharaphorn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phattharaphorn&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![phattharaphorn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
