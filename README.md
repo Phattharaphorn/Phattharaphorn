@@ -4,7 +4,7 @@
 
 <h3 align="center" padding-top: 525px;> Hi 👋🏻, I'm Jan, I love the entire process of developing creative websites.</h3>
 
-![3](https://github.com/phattharaphorn/phattharaphorn/assets/88389821/6b92612f-e234-43dc-9817-c3234473a3ed)
+![Github README Banner](https://github.com/phattharaphorn/phattharaphorn/assets/88389821/462175e5-a665-45ae-8bd7-462c11b3dd55)
 
 ## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ 
 <a href="mailto:phattharaphorn.chd@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
