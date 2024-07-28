@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h3 align="center" padding-top: 525px;> Hi 👋🏻, I'm Jan, I love the entire process of developing creative websites.</h3>
+<h3 align="center" padding-top: 525px;> Hi 👋🏻, I'm Jan, I like the entire process of developing creative websites.</h3>
 
-![Github README Banner](https://github.com/phattharaphorn/phattharaphorn/assets/88389821/462175e5-a665-45ae-8bd7-462c11b3dd55)
+![GitHub README Banner LinkedIn](https://github.com/user-attachments/assets/89545c3e-2fb6-474b-9210-84539ae9f5f8)
 
 ## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ 
 <a href="mailto:phattharaphorn.chd@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
