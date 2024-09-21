@@ -13,7 +13,7 @@
 </br>
 
 ## ᴛᴇᴄʜɴɪᴄᴀʟ ꜱᴋɪʟʟꜱ
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,nestjs,nextjs,nodejs,angular,react,fastapi,vue,tailwind,docker,postman,MongoDB,phpmyadmin,sql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,nestjs,nextjs,nodejs,angular,react,fastapi,vue,tailwind,docker,postman,MongoDB,sqlserver,mysql)](https://skillicons.dev)
 
 ## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 ![phattharaphorn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbordoloi&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact)
